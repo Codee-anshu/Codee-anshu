@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Codee-anshu/Codee-anshu/blob/main/banner.png" alt="banner" />
+  <img src="https://github.com/Codee-anshu/ChatGPT Image Aug 17, 2025, 06_17_55 PM.png" alt="banner" />
 </p>
 
 
