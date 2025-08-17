@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Codee-anshu/Codee-anshu/blob/main/banner.png" alt="banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Anshudeep Sahu</h1>
 <h3 align="center">A Junior React Native Developer passionate about crafting clean and functional mobile apps.</h3>
 
